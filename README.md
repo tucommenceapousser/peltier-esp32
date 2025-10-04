@@ -4,19 +4,19 @@ Micropython pour contrôler un **Peltier TEC1-12715** avec un **ESP32** via un s
 ## 🛠️ Composants principaux
 
 ### ESP32 WROOM DevKit
-![ESP32 WROOM](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/esp32.jpg)
+![ESP32 WROOM](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/Screenshot_2025-10-04-12-35-10-429_com.openai.chatgpt-edit.jpg)
 Carte MicroPython avec Wi-Fi et PWM.
 
 ---
 
 ### MOSFET IRLZ44N
-![MOSFET IRLZ44N](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/mosfet.jpg)
+![MOSFET IRLZ44N](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/Screenshot_2025-10-04-12-35-41-055_com.openai.chatgpt-edit.jpg)
 Interrupteur à courant élevé pour piloter le Peltier via PWM.
 
 ---
 
 ### Capteur de température DS18B20
-![DS18B20](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/capteur.jpg)
+![DS18B20](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/Screenshot_2025-10-04-12-35-41-055_com.openai.chatgpt-edit.jpg)
 Capteur numérique pour lecture précise de la température.
 
 ## Utilisation avec l'IDE arduino
