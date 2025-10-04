@@ -1,6 +1,10 @@
 # 🌡️ peltier-esp32
 Micropython pour contrôler un **Peltier TEC1-12715** avec un **ESP32** via un serveur web.
 
+## Utilisation avec l'IDE arduino
+
+[Guide Arduino pour le Peltier ESP32](https://github.com/tucommenceapousser/peltier-esp32/blob/main/arduino.md)
+
 ---
 
 ## ⚡ Fonctionnalités principales
