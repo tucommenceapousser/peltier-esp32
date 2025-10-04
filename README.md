@@ -18,7 +18,7 @@ Interrupteur à courant élevé pour piloter le Peltier via PWM.
 ---
 
 ### Capteur de température DS18B20
-![DS18B20](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/Screenshot_2025-10-04-12-35-41-055_com.openai.chatgpt-edit.jpg)
+![DS18B20](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/Screenshot_2025-10-04-12-34-39-385_com.openai.chatgpt-edit.jpg)
 Capteur numérique pour lecture précise de la température.
 
 ## Utilisation avec l'IDE arduino
