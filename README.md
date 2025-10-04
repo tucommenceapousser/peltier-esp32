@@ -2,7 +2,7 @@
 Micropython pour contrôler un **Peltier TEC1-12715** avec un **ESP32** via un serveur web.
 
 
-![peltier module avec esp32](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/)
+![peltier module avec esp32](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/peltier.png)
 ## 🛠️ Composants principaux
 
 ### ESP32 WROOM DevKit
