@@ -1,6 +1,24 @@
 # 🌡️ peltier-esp32
 Micropython pour contrôler un **Peltier TEC1-12715** avec un **ESP32** via un serveur web.
 
+## 🛠️ Composants principaux
+
+### ESP32 WROOM DevKit
+![ESP32 WROOM](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/esp32.jpg)
+Carte MicroPython avec Wi-Fi et PWM.
+
+---
+
+### MOSFET IRLZ44N
+![MOSFET IRLZ44N](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/mosfet.jpg)
+Interrupteur à courant élevé pour piloter le Peltier via PWM.
+
+---
+
+### Capteur de température DS18B20
+![DS18B20](https://raw.githubusercontent.com/tucommenceapousser/peltier-esp32/main/images/capteur.jpg)
+Capteur numérique pour lecture précise de la température.
+
 ## Utilisation avec l'IDE arduino
 
 [Guide Arduino pour le Peltier ESP32](https://github.com/tucommenceapousser/peltier-esp32/blob/main/arduino.md)
